@@ -12,8 +12,8 @@
 regions:
     spawn:
         type: cuboid
-        min: {x: 121.0, y: 65.0, z: 406.0}
-        max: {x: 133.0, y: 76.0, z: 424.0}
+        min: {x: 117.0, y: 64.0, z: 406.0}
+        max: {x: 133.0, y: 76.0, z: 418.0}
         priority: 0
         flags: {}
         owners:

@@ -1,19 +1,21 @@
 logoutlocation:
   world: world
-  x: 113.8559408289794
-  y: 64.0
-  z: 190.7032319185415
-  yaw: -212.24982
-  pitch: 19.500004
+  x: 127.42332600926292
+  y: 71.0
+  z: 410.8001654157624
+  yaw: -193.49257
+  pitch: 35.99998
 lastAccountName: Hetal728
 timestamps:
-  login: 1427484425345
-  lastteleport: 1427486223559
+  login: 1427490729533
+  lastteleport: 1427491596902
+  logout: 1427489912365
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: 127.22887921985148
-  y: 71.0
-  z: 415.59634643225877
-  yaw: -268.7926
-  pitch: -5.250019
+  x: 125.93055348495108
+  y: 78.52882178052766
+  z: 406.11008455700187
+  yaw: -201.59496
+  pitch: 4.6499863
+afk: false
