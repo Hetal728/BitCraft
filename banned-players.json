@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "f07acb4d-0114-4985-90d0-d58175548dfc",
+    "name": "mac8080",
+    "created": "2015-03-27 22:13:43 -0400",
+    "source": "§4Hetal728§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "682901dc-348b-4e0f-b293-0e294afefd97",
+    "name": "IAmElektro",
+    "created": "2015-03-27 22:55:23 -0400",
+    "source": "§4Hetal728§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "5416c546-d563-4f27-9f17-1b151062e6f3",
+    "name": "TheExperiences",
+    "created": "2015-03-27 21:50:20 -0400",
+    "source": "§4Hetal728§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]
